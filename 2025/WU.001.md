@@ -1,6 +1,6 @@
 # Diver OSINT CTF 2025
 
-### In this Japanese based CTF, team SE4L placed 15th out of 668 teams. The two challenges below were just two of a few that I solved with ``P2T`` being one of the harder ones to solve for non-Japanese speaking teams (like us). Below showcases my steps and findings along the way. Enjoy.
+### In this Japanese based CTF, team SE4L placed 15th out of 668 teams. The two challenges below were just two of a few that I solved for my team with ``P2T`` being one of the harder ones to solve for non-Japanese speaking teams (like us). Below showcases my steps and findings along the way. Enjoy.
 
 
 ## ``P2T``
