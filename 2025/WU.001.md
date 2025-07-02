@@ -1,6 +1,6 @@
-# Diver OSINT CTF 2025
+# Diver OSINT CTF 2025 - Team SE4L Writeup
 
-### In this Japanese based CTF, team SE4L placed 15th out of 668 teams. The two challenges below were just two of a few that I solved for my team with ``P2T`` being one of the harder ones to solve for non-Japanese speaking teams (like us). Below showcases my steps and findings along the way. Enjoy.
+### In this Japanese based CTF, team SE4L placed 15th out of 668 teams. The challenge below is just one of a few that I solved for my team with ``P2T`` being one of the harder ones to solve for non-Japanese speaking teams (like us). Below showcases my steps and findings along the way. Enjoy.
 
 
 ## ``P2T``
@@ -26,6 +26,27 @@ we would have been stuck without a next step. This also confirmed my idea that t
 I ended up locating the ``Mount Tateyama Visitor Center`` which ended up confirming a lot of details.
 ![Image](https://github.com/user-attachments/assets/e1cda9fe-7cac-4de7-8d03-6c0cf8a00c3a)
 
-I quickly jumped into some of the photospheres that were inside of the building, in hopes to find some confirming facts, which ended up being the case. (see images below)
+I quickly jumped into some of the photospheres that were inside of the building, in hopes to find some confirming facts, which ended up being the case. (see images below) -- This image was a big confirmation that I was heading in the right direction since the highlighted areas matched the challenge image.
 
-Incomplete.
+![Image](https://github.com/user-attachments/assets/06304051-76ca-4849-b7ee-91c33da2d890)
+
+More confirmation below -- As you can see my idea about a window and the gold 'X' light decor was correct. 
+
+![Image](https://github.com/user-attachments/assets/f343e2ca-bca8-471a-9ab4-07a8150e3bb7)
+
+After a little more looking, I found another photo with our little birdie friend! Now, all I had to do was find a more high quality photo of that same wall so I could get the name for the flag.
+
+![Image](https://github.com/user-attachments/assets/84704656-5e71-470f-a6f3-45e05cdd90a5)
+
+With a little more digging, I quickly found this great high quality image that matches the bird that is needed for the flag.
+
+![Image](https://github.com/user-attachments/assets/d876256b-8a31-4a78-89d6-4db993437923)
+
+``トビ``
+
+### This ended up being the correct flag ``Diver25{トビ}``
+
+
+
+
+
