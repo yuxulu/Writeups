@@ -4,7 +4,7 @@
 
 
 ## ``P2T``
-### Challenge Descripton:
+### Challenge Description:
 ``The photo posted to the left of this photo shows an animal. Answer its name as it is written in Japanese.-- Flag Format: Diver25{シバイヌ}``
 
 ### Challenge Image:
